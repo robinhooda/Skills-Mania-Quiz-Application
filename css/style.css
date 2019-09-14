@@ -46,9 +46,10 @@
 
 h1 {
   font-size: 4.4rem;
-  color:white;
+  color:#FF2E8E;
   font-style: normal;
-  font-weight: bold;
+  /* font-weight:normal; */
+  font-family: Poppins;
   margin-bottom: 3rem;
 }
 
@@ -227,4 +228,7 @@ input::placeholder {
 
 .high-score:hover {
   transform: scale(1.025);
+}
+#mania{
+  color:white;
 }

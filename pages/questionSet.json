@@ -2,18 +2,14 @@
     "response_code": 0,
     "results": [
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-        "correct_answer": "Apple",
-        "incorrect_answers": ["Microsoft", "Atari", "Commodore"]
+        "question": "Which of the following statement is true ?",
+        "correct_answer": "Attribute values must be quoted",
+        "incorrect_answers": [  "Attribute names must be in uppercase",
+            "Attribute minimization is mandatory",
+            "None of the mentioned"]
       },
   
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "What does CPU stand for?",
         "correct_answer": "Central Processing Unit",
         "incorrect_answers": [
@@ -23,33 +19,21 @@
         ]
       },
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "What does the &quot;MP&quot; stand for in MP3?",
         "correct_answer": "Moving Picture",
         "incorrect_answers": ["Music Player", "Multi Pass", "Micro Point"]
       },
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
         "correct_answer": "1000",
         "incorrect_answers": ["512", "1024", "500"]
       },
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "When Gmail first launched, how much storage did it provide for your email?",
         "correct_answer": "1GB",
         "incorrect_answers": ["512MB", "5GB", "Unlimited"]
       },
       {
-        "category": "Science: Computers",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "What does GHz stand for?",
         "correct_answer": "Gigahertz",
         "incorrect_answers": ["Gigahotz", "Gigahetz", "Gigahatz"]

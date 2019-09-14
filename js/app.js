@@ -58,10 +58,10 @@ getNewQuestion = () => {
   if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem("mostRecentScore", score);
     //go to the gameover page
-    return window.location.assign("../pages/gameover.html");
+    return window.location.assign("../pages/results.html");
   }
   questionCounter++;
-  progressText.innerText = `Question ${questionCounter}of${MAX_QUESTIONS}`;
+  progressText.innerText = `Question ${questionCounter} of ${MAX_QUESTIONS}`;
  
 
   const questionIndex = Math.floor(Math.random() * availableQuesions.length);
